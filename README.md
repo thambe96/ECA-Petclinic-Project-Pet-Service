@@ -1,5 +1,12 @@
 # Pet Service - Pet Clinic Microservices
 
+## 👤 Student & Project Metadata
+
+- **Student Name**: Oshadha Sankalpa Thambavita
+- **Student Number**: 241711043
+- **Slack Handle**: Oshadha Thambavita
+- **GCP ID**: eca-petclinic-241711043
+
 Microservice managing pet patients, medical history, and owner records for the Pet Clinic application, built with **Spring Boot 3.4.3**, **Spring Data MongoDB**, **MongoDB**, **Lombok**, and **Java 25**.
 
 ## Architecture & Features
